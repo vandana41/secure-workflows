@@ -5,6 +5,6 @@ github-token:
     is-default: false
   permissions:
     actions: write
-    actions-reason: to list and dispatchthe workfows and get assets
+    actions-reason: to list and dispatch workfows
     #Refrences: https://github.com/benc-uk/workflow-dispatch/blob/827565b908f387ffd483c84312273ae185c06c8a/src/main.ts#L51
     #Refrences: https://github.com/benc-uk/workflow-dispatch/blob/827565b908f387ffd483c84312273ae185c06c8a/src/main.ts#L38
