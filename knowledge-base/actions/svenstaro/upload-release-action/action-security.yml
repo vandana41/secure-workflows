@@ -5,6 +5,6 @@ github-token:
     is-default: true
   permissions:
     contents: write
-    contents-reason: to create, delete and get assets
+    contents-reason: to create, delete and  get assets
     #Refrences: https://github.com/svenstaro/upload-release-action/blob/4e5de2077753aa547cb9ca80caa0f77bf18f6bfb/src/main.ts#L33
     # refrences: https://github.com/svenstaro/upload-release-action/blob/4e5de2077753aa547cb9ca80caa0f77bf18f6bfb/src/main.ts#L141
